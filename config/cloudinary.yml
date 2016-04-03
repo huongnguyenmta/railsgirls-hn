@@ -1,0 +1,19 @@
+
+development:
+  cloud_name: hvktqs
+  api_key: '666113898744348'
+  api_secret: WsVp5hpzy5yz-bie9xFSX0uDWHg
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: hvktqs
+  api_key: '666113898744348'
+  api_secret: WsVp5hpzy5yz-bie9xFSX0uDWHg
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: hvktqs
+  api_key: '666113898744348'
+  api_secret: WsVp5hpzy5yz-bie9xFSX0uDWHg
+  enhance_image_tag: true
+  static_image_support: false
